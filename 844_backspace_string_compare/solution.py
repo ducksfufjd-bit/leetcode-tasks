@@ -1,6 +1,6 @@
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:
-        # Время:  O(n + m)
+        # Время:  O(n + m) n = len(s), m = len(m)
         # Память: O(n + m)
         # Если решать через указатели, то по памяти О(1)
         stack_of_s = []
