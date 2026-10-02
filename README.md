@@ -1,4 +1,4 @@
-# LeetCode Tasks
+# LeetCode Tasks Вариант 55
 
 Репозиторий с решениями задач LeetCode.
 
@@ -7,7 +7,6 @@
 - скрин пройденных тестов на литкод
 
 ## Решённые задачи
-
-- 216. Combination Sum III
-- 706. Design HashMap
-- 844. Backspace String Compare
+ 216. Combination Sum III
+ 706. Design HashMap
+ 844. Backspace String Compare
